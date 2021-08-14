@@ -15,7 +15,7 @@ print("list x=",x[10:0])
 print("list x=",x[2:5])
 
 #print list element reverse
-#print("list x="x[0:-4])
+print("List x in reverse:",x[::-1])
 
 #using append,insert add element in list
 x.append(11)
