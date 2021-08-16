@@ -41,14 +41,6 @@ if(ch=='A' or ch=='a' or ch=='E' or ch =='e' or ch=='I'
 else:
     print(ch, "is a Consonant")
 
-
-
-
-
-
-
-
-
 #Write programm to calculate monthly simple intrest and compound intrest(5%/Month) on amount - 161258/-
 
     p=161258
