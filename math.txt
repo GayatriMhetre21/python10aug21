@@ -1,0 +1,8 @@
+Addition =  5+6  =  11
+Substraction =  44-22  =  22
+Multiplication =  11*3  =  33
+Division =  88/2  =  44
+Modules =  44%22  =  00
+
+
+  
